@@ -1,0 +1,129 @@
+1584269824744	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\PETARS~1\\AppData\\Local\\Temp\\rust_mozprofileGF0TrY"
+*** You are running in headless mode.
+1584269825509	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584269825938	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584269825938	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584269825939	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584269825940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584269827785	Marionette	INFO	Listening on port 57254
+1584269827869	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://www.beostan.co.rs/novi-beograd_izdavanje-stanova.html, line 52: TypeError: $(...).nivoSlider is not a function
+JavaScript error: , line 0: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://www.beostan.co.rs/centar_izdavanje-stanova.html, line 52: TypeError: $(...).nivoSlider is not a function
+JavaScript error: , line 0: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://www.beostan.co.rs/siri-beograd_izdavanje-stanova.html, line 52: TypeError: $(...).nivoSlider is not a function
+JavaScript error: , line 0: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://www.beostan.co.rs/zemun_izdavanje-stanova.html, line 52: TypeError: $(...).nivoSlider is not a function
+JavaScript error: , line 0: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://www.beostan.co.rs/bezanijska-kosa_izdavanje-stanova.html, line 52: TypeError: $(...).nivoSlider is not a function
+1584270146928	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\PETARS~1\\AppData\\Local\\Temp\\rust_mozprofileQdT9mu"
+*** You are running in headless mode.
+1584270147955	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584270148797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584270148797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584270148798	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584270148798	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584270151969	Marionette	INFO	Listening on port 57656
+1584270152161	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://www.beostan.co.rs/novi-beograd_izdavanje-stanova.html, line 52: TypeError: $(...).nivoSlider is not a function
+JavaScript error: , line 0: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://www.beostan.co.rs/centar_izdavanje-stanova.html, line 52: TypeError: $(...).nivoSlider is not a function
+JavaScript error: , line 0: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://www.beostan.co.rs/siri-beograd_izdavanje-stanova.html, line 52: TypeError: $(...).nivoSlider is not a function
+JavaScript error: , line 0: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://www.beostan.co.rs/zemun_izdavanje-stanova.html, line 52: TypeError: $(...).nivoSlider is not a function
+JavaScript error: , line 0: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://www.beostan.co.rs/bezanijska-kosa_izdavanje-stanova.html, line 52: TypeError: $(...).nivoSlider is not a function
+1584270477160	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\PETARS~1\\AppData\\Local\\Temp\\rust_mozprofileI5m7kJ"
+*** You are running in headless mode.
+1584270477408	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584270477710	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584270477710	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584270477710	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584270477710	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584270478824	Marionette	INFO	Listening on port 58118
+1584270479170	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://www.beostan.co.rs/novi-beograd_izdavanje-stanova.html, line 52: TypeError: $(...).nivoSlider is not a function
+JavaScript error: , line 0: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://www.beostan.co.rs/centar_izdavanje-stanova.html, line 52: TypeError: $(...).nivoSlider is not a function
+JavaScript error: , line 0: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://www.beostan.co.rs/siri-beograd_izdavanje-stanova.html, line 52: TypeError: $(...).nivoSlider is not a function
+JavaScript error: , line 0: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://www.beostan.co.rs/zemun_izdavanje-stanova.html, line 52: TypeError: $(...).nivoSlider is not a function
+JavaScript error: , line 0: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://www.beostan.co.rs/bezanijska-kosa_izdavanje-stanova.html, line 52: TypeError: $(...).nivoSlider is not a function
+1584270538296	Marionette	INFO	Stopped listening on port 58118
+1584278098444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\PETARS~1\\AppData\\Local\\Temp\\rust_mozprofilefP9oib"
+*** You are running in headless mode.
+1584278098755	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584278099101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584278099101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584278099101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584278099101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584278100392	Marionette	INFO	Listening on port 62433
+1584278100451	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://www.beostan.co.rs/novi-beograd_izdavanje-stanova.html, line 52: TypeError: $(...).nivoSlider is not a function
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+1584278158437	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\PETARS~1\\AppData\\Local\\Temp\\rust_mozprofileMUb4b5"
+*** You are running in headless mode.
+1584278158694	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584278158987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584278158988	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584278158988	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584278158988	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584278160072	Marionette	INFO	Listening on port 62539
+1584278160446	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://www.beostan.co.rs/novi-beograd_izdavanje-stanova.html, line 52: TypeError: $(...).nivoSlider is not a function
+1584278172081	Marionette	INFO	Stopped listening on port 62539
+1584278196907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\PETARS~1\\AppData\\Local\\Temp\\rust_mozprofile8vqXpW"
+*** You are running in headless mode.
+1584278197164	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584278197482	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584278197482	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584278197482	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584278197482	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584278198617	Marionette	INFO	Listening on port 62629
+1584278198923	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://www.beostan.co.rs/novi-beograd_izdavanje-stanova.html, line 52: TypeError: $(...).nivoSlider is not a function
+JavaScript error: , line 0: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://www.beostan.co.rs/centar_izdavanje-stanova.html, line 52: TypeError: $(...).nivoSlider is not a function
+JavaScript error: , line 0: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://www.beostan.co.rs/siri-beograd_izdavanje-stanova.html, line 52: TypeError: $(...).nivoSlider is not a function
+JavaScript error: , line 0: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://www.beostan.co.rs/zemun_izdavanje-stanova.html, line 52: TypeError: $(...).nivoSlider is not a function
+JavaScript error: , line 0: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://www.beostan.co.rs/bezanijska-kosa_izdavanje-stanova.html, line 52: TypeError: $(...).nivoSlider is not a function
+1584278263622	Marionette	INFO	Stopped listening on port 62629
+1584278363024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\PETARS~1\\AppData\\Local\\Temp\\rust_mozprofileHBjd15"
+*** You are running in headless mode.
+1584278363277	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584278363597	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584278363597	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584278363597	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584278363597	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584278364702	Marionette	INFO	Listening on port 62953
+1584278365037	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://www.beostan.co.rs/novi-beograd_izdavanje-stanova.html, line 52: TypeError: $(...).nivoSlider is not a function
+JavaScript error: , line 0: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://www.beostan.co.rs/centar_izdavanje-stanova.html, line 52: TypeError: $(...).nivoSlider is not a function
+JavaScript error: , line 0: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://www.beostan.co.rs/siri-beograd_izdavanje-stanova.html, line 52: TypeError: $(...).nivoSlider is not a function
+JavaScript error: , line 0: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://www.beostan.co.rs/zemun_izdavanje-stanova.html, line 52: TypeError: $(...).nivoSlider is not a function
+JavaScript error: , line 0: uncaught exception: Fotorama requires jQuery 1.8 or later and will not run without it.
+JavaScript error: https://www.beostan.co.rs/bezanijska-kosa_izdavanje-stanova.html, line 52: TypeError: $(...).nivoSlider is not a function
+1584278411121	Marionette	INFO	Stopped listening on port 62953
