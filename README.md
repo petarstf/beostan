@@ -18,3 +18,8 @@ I onda da aktiviras:
 py -i fibot.py
 
 I cekas da se scrapeuje
+
+
+
+### cmd windows komanda - izvrsava skriptu
+C:\PATH_TO_VENV\venv\Scripts\python.exe fibot.py
