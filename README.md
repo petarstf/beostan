@@ -21,5 +21,5 @@ I cekas da se scrapeuje
 
 
 
-### cmd windows komanda - izvrsava skriptu
+### cmd windows komanda - izvrsava skriptu:
 C:\PATH_TO_VENV\venv\Scripts\python.exe fibot.py
