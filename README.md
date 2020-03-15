@@ -3,15 +3,18 @@ Beostan scraper
 
 Prvo napravis virtuelno okruzenje:
 
-\npy -m venv venv
+py -m venv venv
 
 Onda aktiviras virtuelno okruzenje:
-\nvenv/Scripts/activate
+
+venv/Scripts/activate
 
 U virtuelnom okruzenju instaliras sve dependencije:
-\npip install -r requirements.txt
+
+pip install -r requirements.txt
 
 I onda da aktiviras:
-\npy -i fibot.py
+
+py -i fibot.py
 
 I cekas da se scrapeuje
